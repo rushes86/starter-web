@@ -1,1 +1,4 @@
 sessIgnore.txt
+newSessIgnore.txt
+*.log
+log/
