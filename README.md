@@ -8,5 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This section is to deploy the scripts to the web server
 
 ## Refer
+
+This section provide key information of the project
