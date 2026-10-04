@@ -2,3 +2,4 @@
 
 User-agent: *
 name: rushes
+place: Chennai
