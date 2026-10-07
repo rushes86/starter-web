@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+Adding a line to check the rebase
 This repository is for showing how Git and GitHub work
 
 ## Purpose
