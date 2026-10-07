@@ -6,10 +6,10 @@
 
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
-	<type>master</type>
-	<type>master1</type>
-	<type>master2</type>
-	<type>master3</type>
+	<type>new branch 1</type>
+	<type>new branch 2</type>
+	<type>new branch 3</type>
+	<type>new branch 4</type>
     <!-- Least restrictive policy: -->
     <!--
     <site-control permitted-cross-domain-policies="all"/>
