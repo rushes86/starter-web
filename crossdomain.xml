@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<head>Test</head>
 <!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
 <cross-domain-policy>
 	<newtag>master</newtag>
@@ -16,4 +17,5 @@
     <allow-access-from domain="*" to-ports="*" secure="false"/>
     <allow-http-request-headers-from domain="*" headers="*" secure="false"/>
     -->
+	
 </cross-domain-policy>
