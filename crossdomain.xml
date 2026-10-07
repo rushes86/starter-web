@@ -6,6 +6,9 @@
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
 	<type>master</type>
+	<type>master1</type>
+	<type>master2</type>
+	<type>master3</type>
     <!-- Least restrictive policy: -->
     <!--
     <site-control permitted-cross-domain-policies="all"/>
