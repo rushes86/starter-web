@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <head>Test</head>
+<style>Jailer2</style>
 <!DOCTYPE cross-domain-policy SYSTEM "http://www.adobe.com/xml/dtds/cross-domain-policy.dtd">
 <cross-domain-policy>
 	<newtag>master</newtag>
