@@ -1,5 +1,5 @@
 # robotstxt.org/
-
+Entry of robo file for stash
 User-agent: *
 name: rushes
 place: Chennai

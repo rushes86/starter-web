@@ -1,3 +1,4 @@
 I am a new file.
 This is second line
 This is third line
+Adding stash entry 
