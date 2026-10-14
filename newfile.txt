@@ -2,3 +2,4 @@ I am a new file.
 This is second line
 This is third line
 this is an entry from new branch
+I m adding this entry after stash 
